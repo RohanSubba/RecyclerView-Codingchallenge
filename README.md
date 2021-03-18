@@ -13,7 +13,8 @@ Word Clicked
 <br />
 <b>Menubar</b>
 <br />
-<img src="menu.png" width="250" height="400">
+<img src="menuitem.png" width="250" height="400">
 <br />
 <b>Reset option selected</b>
 <br />
+<img src="resetpressed.png" width="250" height="400">
